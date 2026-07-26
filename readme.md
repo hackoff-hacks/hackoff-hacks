@@ -22,7 +22,7 @@ Unix-like systems
 
 Open your terminal and run:
 
-pkg install git
+sudo pkg install git
 
 git clone https://github.com/hackoff-hacks/hackoff_tools
 
